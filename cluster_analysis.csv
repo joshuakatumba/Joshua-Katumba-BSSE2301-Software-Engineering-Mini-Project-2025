@@ -1,0 +1,8 @@
+,Annual Income (k$),Annual Income (k$),Annual Income (k$),Annual Income (k$),Spending Score (1-100),Spending Score (1-100),Spending Score (1-100),Spending Score (1-100),CustomerID
+,mean,std,min,max,mean,std,min,max,count
+Cluster,,,,,,,,,
+0,121.6,17.38,89,149,29.82,13.72,2,54,55
+1,45.39,20.62,15,76,86.9,11.72,65,99,31
+2,51.5,21.31,16,85,15.53,8.87,1,30,30
+3,121.86,20.47,86,148,79.41,14.4,57,100,29
+4,56.9,20.22,17,86,46.79,10.07,32,64,29
